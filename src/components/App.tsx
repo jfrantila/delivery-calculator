@@ -10,7 +10,7 @@ const App = (): JSX.Element => {
       <div className='submission-banner'>
         <div className='banner-text ps-0'>
           <div>
-            Submission for Wolt Internship
+            Delivery Calculator
           </div>
           <img
             className={drive ? "driveaway" : "arrive"}
